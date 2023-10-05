@@ -8,7 +8,8 @@ import (
 func main() {
 	// Crear un mapa para almacenar los apellidos de los jugadores y la descripcion.
 	diccionario := map[string]string{
-		"Martínez": "Edad: \nNombre completo: \nApodo: \nFecha de nacimiento: \nEstatura: \nPeso: ",
+		"Messi": "Edad:35 \nNombre completo:leonel andres messi cuccittini \nApodo:pulga \nFecha de nacimiento:24/06/1987 \nEstatura:171 \nPeso:72 ",
+		"gauto": "Edad:18 \nNombre completo:juan gauto \nApodo:juanchi \nFecha de nacimiento:02/06/2004 \nEstatura:170 \nPeso:70 ",
 		//TODO agregar un jugador de la seleccion
 	}
 
