@@ -11,6 +11,7 @@ func main() {
 		"Basile": "Edad:79 \nNombre completo:Alfio Ruben Basile \nApodo:Coco Basile \nFecha de nacimiento: 1 de noviembre de 1943 \nEstatura:1.92 \nPeso:120 ",
 		"Julian":     "Edad: 26\nNombre completo: Julian\nApellido: Álvarez\nApodo: araña\nFecha de nacimiento:  30 de enero de 2000\nEstatura:  170 cm\nPeso: 71 kg",
 		"Tagliafico": "Edad: 31\nNombre completo: Nicolás Alejandro \nApellido: Tagliafico\nApodo: taglia\nFecha de nacimiento: 31 de agosto de 1992\nEstatura: 172 cm\nPeso: 72 kg",
+		"Dibu": "Edad: 31\nNombre completo: Damián Emiliano \nApellido: Martínez\nApodo: Dibu\nFecha de nacimiento: 2 de septiembre de 1992\nEstatura: 195 cm\nPeso: 88 kg",
 	}
 
 	if len(os.Args) != 2 {
