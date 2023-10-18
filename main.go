@@ -12,6 +12,8 @@ func main() {
 		"Basile": "Edad:79 \nNombre completo:Alfio Ruben Basile \nApodo:Coco Basile \nFecha de nacimiento: 1 de noviembre de 1943 \nEstatura:1.92 \nPeso:120 ",
 		"Julian":     "Edad: 26\nNombre completo: Julian\nApellido: Álvarez\nApodo: araña\nFecha de nacimiento:  30 de enero de 2000\nEstatura:  170 cm\nPeso: 71 kg",
 		"Tagliafico": "Edad: 31\nNombre completo: Nicolás Alejandro \nApellido: Tagliafico\nApodo: taglia\nFecha de nacimiento: 31 de agosto de 1992\nEstatura: 172 cm\nPeso: 72 kg",
+		"Mbappe":"Edad: 24\nNombre completo: Kylian \Mbappé Lottin \nApodo: Mbappé \nFecha de nacimiento: 20 de diciembre de 1998 \nEstatura: 1,78 m \nPeso: 75 kg",
+
 	}
 
 	// Verificar si se proporciona un argumento (la palabra a buscar).
