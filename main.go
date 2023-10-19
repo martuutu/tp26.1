@@ -19,9 +19,9 @@ func main() {
 		"Martínez": "Edad: 31\nNombre completo: Damián Emiliano \nApellido: Martínez\nApodo: Dibu\nFecha de nacimiento: 2 de septiembre de 1992\nEstatura: 195 cm\nPeso: 88 kg",
 		"Mbappé":"Edad: 24\nNombre completo: Kylian \Mbappé Lottin \nApodo: Mbappé \nFecha de nacimiento: 20 de diciembre de 1998 \nEstatura: 1,78 m \nPeso: 75 kg",
 		"Di María": "Edad: 35\nNombre completo: Angel Fabian \nApellido: Di Maria\nApodo: fideo\nFecha de nacimiento: 14 de febrero de 1988\nEstatura: 178cm\nPeso: 75kg",
-		"Martínez": "Edad: 32\nNombre completo: Lautaro Martínez \nApellido: Martínez\nApodo: El Toro\nFecha de nacimiento: 8 de marzo de 1991\nEstatura: 186cm\nPeso: 82kg",
 		"Ronaldo"; "Edad: 36\nNombre completo: Cristiano Ronaldo \nApellido: Cristiano Ronaldo\nApodo: CR7\nFecha de nacimiento: 13 de febrero de 1987\nEstatura: 179cm\nPeso: 78kg",
 		"Modric"; "Edad: 38\nNombre completo:luka Modric \nApellido:luka modric\nApodo:modric\nfecha de nacimiento:9 de septiembre de 1985\nEstatura:1,72\nPeso: 66kg",
+		"Ibarra": "Edad: 49\nNombre completo: Hugo Benjamín Ibarra \nApodo: El Negro \nFecha de Nacimiento: 1 de abril de 1974 \nEstatura: 1,71 m \nPeso: 74 kg",
 	}
 
 	if len(os.Args) != 2 {
