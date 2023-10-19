@@ -7,6 +7,8 @@ import (
 
 func main() {
 	diccionario := map[string]string{
+		"Martínez": "Edad:27 \nNombre completo: Lautaro Martínez\nApodo: El toro\nFecha de nacimiento: 14/07/1991\nEstatura: 174cm\nPeso: 54kg ",
+    "Julian": "Edad: 23\nNombre completo: Julian Alvarez\nApodo: La Araña\nfecha de nacimiento: 31/01/2000\nEstatura: 170cm\nPeso: 71 ",
 		"Martínez": "Edad: 26  \nNombre completo: Lautaro Martinez \nApodo: El Toro \nFecha de nacimiento: 22 de agosto de 1997 \nEstatura: 1.74 \nPeso:72 ",
 		"María": "Edad: 35  \nNombre completo: Ángel Di María \nApodo: Fideo  \nFecha de nacimiento: 14 de febrero de 1988 \nEstatura: 1.78 \nPeso:75 ",
 		"Marco": "Edad:34 \nNombre completo:Marco Reus \nApodo:Woody \nFecha de nacimiento:31 de mayo de 1989   \nEstatura:1.8 \nPeso:71 kg ",
