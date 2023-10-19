@@ -8,7 +8,7 @@ import (
 func main() {
 	diccionario := map[string]string{
 		"Martínez": "Edad:27 \nNombre completo: Lautaro Martínez\nApodo: El toro\nFecha de nacimiento: 14/07/1991\nEstatura: 174cm\nPeso: 54kg ",
-    "Julian": "Edad: 23\nNombre completo: Julian Alvarez\nApodo: La Araña\nfecha de nacimiento: 31/01/2000\nEstatura: 170cm\nPeso: 71 ",
+    	"Julian": "Edad: 23\nNombre completo: Julian Alvarez\nApodo: La Araña\nfecha de nacimiento: 31/01/2000\nEstatura: 170cm\nPeso: 71 ",
 		"Martínez": "Edad: 26  \nNombre completo: Lautaro Martinez \nApodo: El Toro \nFecha de nacimiento: 22 de agosto de 1997 \nEstatura: 1.74 \nPeso:72 ",
 		"María": "Edad: 35  \nNombre completo: Ángel Di María \nApodo: Fideo  \nFecha de nacimiento: 14 de febrero de 1988 \nEstatura: 1.78 \nPeso:75 ",
 		"Marco": "Edad:34 \nNombre completo:Marco Reus \nApodo:Woody \nFecha de nacimiento:31 de mayo de 1989   \nEstatura:1.8 \nPeso:71 kg ",
@@ -26,6 +26,7 @@ func main() {
 		"Di Maria": "Edad: 35\nNombre completo: Angel Fabian \nApellido: Di Maria\nApodo: fideo\nFecha de nacimiento: 14 de febrero de 1988\nEstatura: 178cm\nPeso: 75kg",
 		"Lautaro Martímez": "Edad: 32\nNombre completo: Lautaro Martínez \nApellido: Martínez\nApodo: El Toro\nFecha de nacimiento: 8 de marzo de 1991\nEstatura: 186cm\nPeso: 82kg",
 		"cristiano"; "Edad: 36\nNombre completo: Cristiano Ronaldo \nApellido: Cristiano Ronaldo\nApodo: CR7\nFecha de nacimiento: 13 de febrero de 1987\nEstatura: 179cm\nPeso: 78kg",
+		"Ibarra": "Edad: 49\nNombre completo: Hugo Benjamín Ibarra \nApodo: El Negro \nFecha de Nacimiento: 1 de abril de 1974 \nEstatura: 1,71 m \nPeso: 74 kg",
 	}
 
 	if len(os.Args) != 2 {
